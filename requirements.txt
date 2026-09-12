@@ -5,4 +5,4 @@ pandas
 matplotlib
 scikit-learn
 yfinance
-tensorflow
+tensorflow==2.20.0
